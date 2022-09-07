@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/YXfWqYS/Picsart-22-09-06-09-46-02-459.jpg" alt="nz" width="350"/>
+<img src="https://camo.githubusercontent.com/4ff2f98c58965e4359d7f2ef37fc2d25bf1def1e56f8455d8cf5b337f028fea5/68747470733a2f2f74656c656772612e70682f66696c652f6633623266396538363265313335326434666439342e6a7067" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
